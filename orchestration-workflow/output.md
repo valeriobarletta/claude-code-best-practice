@@ -1,13 +1,13 @@
 # Weather Result
 
 ## Temperature
-28.5°C
+83.1°F
 
 ## Location
 Dubai, UAE
 
 ## Unit
-Celsius
+Fahrenheit
 
 ## SVG Card
 ![Weather Card](weather.svg)
