@@ -1,0 +1,17 @@
+{
+  "latitude": 25.2048,
+  "longitude": 55.2708,
+  "timezone": "Asia/Dubai",
+  "timezone_abbreviation": "+04",
+  "current_units": {
+    "time": "iso8601",
+    "temperature_2m": "°C",
+    "temperature_2m_fahrenheit": "°F"
+  },
+  "current": {
+    "time": "2026-03-03T22:00",
+    "temperature_2m": 28.4,
+    "temperature_2m_fahrenheit": 83.1
+  },
+  "_note": "Static weather data for Dubai, UAE — used as fallback in sandboxed environments where external weather APIs are blocked. Update manually or via CI to keep current."
+}
